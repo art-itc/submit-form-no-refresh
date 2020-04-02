@@ -1,6 +1,6 @@
 Submitting a form without page refreshing, using jQuery.
 
-# How to use?
+# Usage
 
 1. Import jQuery and jQuery validate
 

@@ -9,9 +9,9 @@ Submitting a form without page refreshing, using jQuery.
 <script src="https://ajax.aspnetcdn.com/ajax/jquery.validate/1.11.1/jquery.validate.min.js"></script>
 ```
   
-  2. Download & Import spop.js 
+  2. Download & Import norefresh.js 
   ```javascript
-  <script src="spop.js"></script>
+  <script src="norefresh.js"></script>
   ```
   3. Call the function with ID or class of your form.
   ```javascript

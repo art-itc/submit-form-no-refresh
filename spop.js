@@ -1,4 +1,4 @@
-		function submitToSpop(a) {
+		function submitWithoutRefresh(a) {
 			$(a).on('submit', function(e) {
 				e.preventDefault(); //prevents page refresh
 				$.ajax({
@@ -6,7 +6,7 @@
 					url: $(a).attr('action'),
 					data: $(this).serialize(),
 					success: function(data) {
-						console.log("Success, data submitted to Spop!");
+						console.log("Success, data submitted!");
 					}
 				});
 			});

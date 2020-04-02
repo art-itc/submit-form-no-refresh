@@ -9,7 +9,7 @@ Submitting a form without page refreshing, using jQuery.
 <script src="https://ajax.aspnetcdn.com/ajax/jquery.validate/1.11.1/jquery.validate.min.js"></script>
 ```
   
-  2. Import spop.js 
+  2. Download & Import spop.js 
   ```
   <script src="spop.js"></script>
   ```

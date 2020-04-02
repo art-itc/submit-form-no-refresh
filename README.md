@@ -20,6 +20,6 @@ Submitting a form without page refreshing, using jQuery.
   
   If succesful, message 
   ```
-  Success, data submitted to Spop!
+  Success, data submitted!
   ```
   will be printed to the console.

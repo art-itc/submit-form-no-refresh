@@ -15,7 +15,7 @@ Submitting a form without page refreshing, using jQuery.
   ```
   3. Call the function with ID or class of your form.
   ```javascript
-  submitToSpop('#your-form');
+  submitWithoutRefresh('#your-form');
   ```
   
   If succesful, message 

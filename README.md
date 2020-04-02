@@ -4,7 +4,7 @@ Submitting a form without page refreshing, using jQuery.
 
 1. Import jQuery and jQuery validate
 
-```javascript
+```html
 <script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
 <script src="https://ajax.aspnetcdn.com/ajax/jquery.validate/1.11.1/jquery.validate.min.js"></script>
 ```
